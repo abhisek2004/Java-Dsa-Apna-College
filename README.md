@@ -78,3 +78,5 @@ This comprehensive curriculum has equipped me with the knowledge and skills need
 ![Alpha Curriculum 2](https://github.com/abhisek2004/Java-Dsa-Apna-College/assets/117925314/68b93426-dfe9-48fe-8cc1-230c0a8c746f)
 
 ![Alpha Curriculum 3](https://github.com/abhisek2004/Java-Dsa-Apna-College/assets/117925314/4997d812-92f3-4632-ab3b-3fd804af8530)
+
+![ABHISEK PANDA certificate-alpha-plus-batch](https://github.com/abhisek2004/Java-Dsa-Apna-College/assets/117925314/fdd30d66-fb8f-4b2e-915a-0fa3edb00798)
